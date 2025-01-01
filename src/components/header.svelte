@@ -14,7 +14,7 @@
 </script>
 
 <header class="flex h-12 items-center justify-between gap-2 border-b border-neutral-800 px-5">
-	<h1 class="text-lg font-bold">Descipline&period;svelte</h1>
+	<h1 class="text-lg font-bold">Discipline&period;svelte</h1>
 	<nav>
 		<ul class="flex gap-4">
 			{#each ROUTES as route}
