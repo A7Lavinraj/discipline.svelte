@@ -1,1 +1,1 @@
-<h1>Hello from discipline.svelte</h1>
+<h1>Hello from today event</h1>
